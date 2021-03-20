@@ -1,7 +1,7 @@
-# Pytorch-DeepLearning
+# PyTorch-DeepLearning
 
 * 'PyTorch로 시작하는 딥 러닝 입문(유원준 저/위키독스)' 공부를 목적으로 함
-* Pytorch 공부하면서 배운 것들 정리
+* PyTorch 공부하면서 배운 것들 정리
 * 
 ---------------------------
 
