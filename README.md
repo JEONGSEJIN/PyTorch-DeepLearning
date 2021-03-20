@@ -2,7 +2,7 @@
 
 * PyTorch를 자유자재로 사용하기 위한 목적으로 공부
 * PyTorch 공부하면서 배운 것들 정리
-* 참고 서적: [PyTorch로 시작하는 딥 러닝 입문(유원준 저/위키독스)](https://wikidocs.net/book/2788) 
+* 참고 서적: [PyTorch로 시작하는 딥 러닝 입문 (유원준 저/위키독스)](https://wikidocs.net/book/2788) 
 *
 
 ---------------------------
